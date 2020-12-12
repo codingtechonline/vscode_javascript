@@ -1,0 +1,29 @@
+https://md-exchange-rates.herokuapp.com/latest
+
+###
+https://jsonplaceholder.typicode.com/posts
+
+###
+https://jsonplaceholder.typicode.com/posts/50
+
+
+###
+POST https://jsonplaceholder.typicode.com/posts HTTP/1.1
+content-type: application/json
+
+{
+    "userId": 1,
+    "title": "I am a post.",
+    "body": "lorem500"
+}
+
+###
+
+PUT https://jsonplaceholder.typicode.com/posts/50 HTTP/1.1
+content-type: application/json
+
+{
+    
+    "title": "Darth Vader Suprise",
+    "body": "Luke, guess who's tall, dark, handsome, and your father?"
+}
