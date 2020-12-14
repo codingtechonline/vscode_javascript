@@ -1,5 +1,3 @@
-https://md-exchange-rates.herokuapp.com/latest
-
 ###
 https://jsonplaceholder.typicode.com/posts
 
